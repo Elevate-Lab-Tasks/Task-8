@@ -1,0 +1,20 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+#footer-section{
+  background-color: rgb(219, 121, 40);
+}
+
+#footer-section {
+  padding: 1rem;
+  color: white;
+}
+#footer-section a {
+  color: white;
+  margin: 0 10px;
+  /* text-decoration: none; */
+}
